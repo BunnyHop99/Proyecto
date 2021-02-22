@@ -10,6 +10,14 @@ app/storage/
 # Laravel 5 & Lumen specific
 public/storage
 public/hot
+<<<<<<< HEAD
+=======
+
+# Laravel 5 & Lumen specific with changed public path
+public_html/storage
+public_html/hot
+
+>>>>>>> 1306a0f1337cdce7bc258dbbef55d5a3708f2920
 storage/*.key
 .env
 Homestead.yaml
